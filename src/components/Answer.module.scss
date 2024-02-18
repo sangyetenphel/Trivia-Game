@@ -1,0 +1,14 @@
+.answer {
+    width: 47.5%;
+    font-family: Verdana, sans-serif;
+    color: #FFFFFF;
+    background-color: #1A1A1A;
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    font-weight: 800;
+
+    &:hover {
+        border: 1px solid rgb(0, 0, 255);
+    }
+}
